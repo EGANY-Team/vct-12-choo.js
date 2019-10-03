@@ -1,0 +1,14 @@
+{
+  "name": "vct-12",
+  "short_name": "vct-12",
+  "description": "Demo cho bài viết Vọc cùng Thành #12 - Choo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [{
+    "src": "/assets/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
